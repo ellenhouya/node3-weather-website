@@ -6,7 +6,7 @@ const forecast = require("./utils/forecast");
 const { response } = require("express");
 
 // console.log(__dirname);
-console.log(path.join(__dirname, "../public"));
+// console.log(path.join(__dirname, "../public"));
 
 const app = express();
 
